@@ -1255,6 +1255,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-AppointmentInvitation</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-Asset</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -1344,6 +1348,14 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Contract</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-ContractLineItem</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-Coupon</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -1472,6 +1484,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Product2</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-PromotionSegment</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
